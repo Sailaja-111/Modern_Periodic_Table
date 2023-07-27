@@ -1,0 +1,3 @@
+	 NAME      :Magnesium
+	 ATOMIC NO :12
+	 SYMBOL     :Mg

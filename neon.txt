@@ -1,0 +1,7 @@
+NAME      : NEON
+ATOMIC N0 : 10
+SYMBOL    : Ne
+COLOUR    : CYAN
+GROUP NO  : 18
+PERIOD NO : 2
+VALENCY   : 0

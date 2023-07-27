@@ -1,0 +1,3 @@
+	 NAME      :SODIUM
+	 ATOMIC NO :11
+	 SYMBOL     :Na

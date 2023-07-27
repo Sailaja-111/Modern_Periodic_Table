@@ -1,0 +1,7 @@
+	 NAME      :SILICON
+	 ATOMIC NO :14
+	 SYMBOL     :Si
+	 COLOR : BLACK
+	 GROUP : 14
+	 PERIOD : 3
+	 VALENCY : 2

@@ -1,0 +1,3 @@
+	 NAME      :aluminimum
+	 ATOMIC NO :13
+	 SYMBOL     :Al

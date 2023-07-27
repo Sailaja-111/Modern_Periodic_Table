@@ -1,0 +1,3 @@
+	 NAME      :MAGNISIUM
+	 ATOMIC NO :13
+	 SYMBOL     :Mg

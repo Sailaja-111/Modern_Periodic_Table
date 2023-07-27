@@ -1,0 +1,3 @@
+	 NAME      :CALCIUM
+	 ATOMIC NO :20
+	 SYMBOL     :Ca
